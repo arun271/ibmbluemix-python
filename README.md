@@ -1,2 +1,2 @@
 # ibmbluemix-python
-A python client to subscribe/publish to IBM Bluemix IOTF service.
+A python client to publish data to IBM Bluemix IOTF service.
